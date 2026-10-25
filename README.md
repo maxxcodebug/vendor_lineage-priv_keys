@@ -7,7 +7,7 @@ git clone https://github.com/maxxcodebug/vendor_lineage-priv_keys.git vendor/lin
 ```
 ## Put this in your lineage_codename.mk
 ```bash
--include vendor/lineage/keys/keys.mk
+-include vendor/lineage-priv/keys/keys.mk
 ```
 ### Then
 
